@@ -1,0 +1,1 @@
+man ls | grep -e -B -A 2 -m 1
